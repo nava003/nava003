@@ -6,7 +6,7 @@
 
 ---
 
-Earned a certificate in 2023 🎓 | Creatively building ideas 🏗️ | Transforming problems into solutions 🧮 | Willing to work with others 🤝
+Coding certificate in 2023 🎓 | Creatively building ideas 🏗️ | Transforming problems into solutions 🧮 | Willing to work with others 🤝
 
 Knowledge Acquired:  
 <img height="38" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img height="38" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img height="38" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img height="38" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="38" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>  
