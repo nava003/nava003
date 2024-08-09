@@ -1,6 +1,6 @@
-
-
 ## Greetings fellow Coders 🖥️⌨️🖱️
+
+![1109695_animation_dark-background_animation_3840x2160 (1)](https://github.com/user-attachments/assets/6e796ceb-7a35-442b-8907-5b56a34504b3)
 
 <!--
 **nava003/nava003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
