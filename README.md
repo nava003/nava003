@@ -6,7 +6,7 @@
 
 ---
 
-<p>Coding certificate in 2023 🎓 | Creatively building ideas 🏗️ | Transforming problems into solutions 🧮 | Willing to work with others 🤝</p>
+<p align='center'>Coding Certificate Fall 2023 🎓 | Bachelor's Degree Spring 2025 🎓 | Data Analyst Knowledge Fall 2025 📊 | Cybersecurity Bootcamp 2026 🎓</br>Creatively building ideas 🏗️ | Transforming problems into solutions 🧮 | Willing to work with others 🤝</p>
 </br>
 <p align='center'><code><img height="38" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></code>&ensp;&nbsp;
 <code><img height="38" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></code>&ensp;&nbsp;
